@@ -1,0 +1,5 @@
+entities:
+  - name: mars_surface
+    file:  ../smurf/unnamed.smurf
+    parent: world
+  
